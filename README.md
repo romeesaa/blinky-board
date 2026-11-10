@@ -22,3 +22,13 @@ the shape before i got lazy and gave up because of the errors
 
 the schematic 
 <img width="847" height="736" alt="image" src="https://github.com/user-attachments/assets/73464592-602d-44fb-b56e-14aaef8834b1" />
+
+the pcb routing (idk whats this called yet..)
+
+<img width="633" height="450" alt="image" src="https://github.com/user-attachments/assets/18a6e07d-bae2-4e7d-8090-610c78957b20" />
+
+an easter egg :
+
+<img width="63" height="57" alt="image" src="https://github.com/user-attachments/assets/c61ea111-c9c5-44f3-8a72-9805b9095dbc" />
+
+
