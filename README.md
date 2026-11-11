@@ -1,5 +1,5 @@
 # blinky-board
-a  simple pcb board that has LEDS on it. will need to write the firmware to actually make it work but i essentially followed the blinky starter project guide since this is my first ever electronics project and first time designing a pcb board (so proud yay) 
+a  simple pcb board that has LEDS on it. will need to write the firmware to actually make it work but i essentially followed the blinky starter project guide since this is my second ever electronics project and second time designing a pcb board (so proud yay) 
 
 the guide I used: https://blueprint.hackclub.com/starter-projects/blinky 
 
