@@ -31,4 +31,33 @@ an easter egg :
 
 <img width="63" height="57" alt="image" src="https://github.com/user-attachments/assets/c61ea111-c9c5-44f3-8a72-9805b9095dbc" />
 
+# bom
+made this with chatgpt.
+
+| #  | Component              | Specification              | Quantity | Purchase link                                                                                                 |
+| -- | ---------------------- | -------------------------- | -------- | ------------------------------------------------------------------------------------------------------------- |
+| 1  | 555 Timer IC           | NE555P, DIP-8              | 1        | [Pak Modules](https://pakmodules.com/product/ne555-timer-ic/?utm_source=chatgpt.com)                          |
+| 2  | Decade Counter IC      | CD4017, DIP-16             | 1        | [Pak Modules](https://pakmodules.com/product/cd4017-decade-counter-ic/?utm_source=chatgpt.com)                |
+| 3  | Red LEDs               | Standard through-hole LEDs | 10       | [Electronic Store](https://electronicstore.pk/product-category/led-penal-light/?utm_source=chatgpt.com)       |
+| 4  | Orange LEDs            | Standard through-hole LEDs | Optional | [Electronic Store](https://electronicstore.pk/product-category/led-penal-light/?utm_source=chatgpt.com)       |
+| 5  | Yellow LEDs            | Standard through-hole LEDs | Optional | [Electronic Store](https://electronicstore.pk/product-category/led-penal-light/?utm_source=chatgpt.com)       |
+| 6  | Green LEDs             | Standard through-hole LEDs | Optional | [Electronic Store](https://electronicstore.pk/product-category/led-penal-light/?utm_source=chatgpt.com)       |
+| 7  | Blue LEDs              | Standard through-hole LEDs | Optional | [Electronic Store](https://electronicstore.pk/product-category/led-penal-light/?utm_source=chatgpt.com)       |
+| 8  | Resistor               | 1 kΩ, ¼ W                  | 1        | [Electronic Store](https://electronicstore.pk/product-category/resistor-through-hole/?utm_source=chatgpt.com) |
+| 9  | Resistor               | 470 Ω, ¼ W                 | 1        | [Electronic Store](https://electronicstore.pk/product-category/resistor-through-hole/?utm_source=chatgpt.com) |
+| 10 | Potentiometer          | 50 kΩ                      | 1        | [Art of Circuits](https://artofcircuits.com/shop?utm_source=chatgpt.com)                                      |
+| 11 | Electrolytic capacitor | 1 µF, polarized            | 1        | [Electronic Store](https://electronicstore.pk/product-category/capacitor/?utm_source=chatgpt.com)             |
+| 12 | Ceramic capacitor      | 0.01 µF (10 nF)            | 1        | [Electronic Store](https://electronicstore.pk/product-category/capacitor/?utm_source=chatgpt.com)             |
+| 13 | 2-pin connector        | PCB power connection       | 1        | [Electronic Store](https://electronicstore.pk/product-category/connector/?utm_source=chatgpt.com)             |
+| 14 | 1-pin header           | Debug output connection    | 1        | [Electronic Store](https://electronicstore.pk/product-category/connector/?utm_source=chatgpt.com)             |
+
+
+| # | Item           | Specification                               | Quantity     | Purchase link                                                                                                       |
+| - | -------------- | ------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------- |
+| 1 | Power supply   | Regulated 5V USB supply                     | 1            | [Electronic Store](https://electronicstore.pk/product-category/battery-charger-powersupply/?utm_source=chatgpt.com) |
+| 2 | PCB            | Custom-designed PCB, manufactured by JLCPCB | 1            | [JLCPCB](https://jlcpcb.com/?utm_source=chatgpt.com)                                                                |
+| 3 | IC socket      | 8-pin DIP socket for NE555                  | 1 (optional) | [Electronic Store](https://electronicstore.pk/product-category/ic-socket-base/?utm_source=chatgpt.com)              |
+| 4 | IC socket      | 16-pin DIP socket for CD4017                | 1 (optional) | [Electronic Store](https://electronicstore.pk/product-category/ic-socket-base/?utm_source=chatgpt.com)              |
+| 5 | Soldering wire | Electronics solder                          | As needed    | [Pak Modules](https://pakmodules.com/?utm_source=chatgpt.com)                                                       |
+| 6 | Jumper wires   | For testing and debugging                   | A few        | [Electronic Store](https://electronicstore.pk/product-category/jumper-wire-crimshell/?utm_source=chatgpt.com)       |
 
